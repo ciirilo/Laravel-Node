@@ -1,3 +1,3 @@
 ## Second
 
-in this repository i'll exercise php and different functions of php frameworks and methods.
+in this repository i'll exercise php, javascript and different functions of php and javascript frameworks and methods.
